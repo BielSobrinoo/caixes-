@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ii7pN/Sl`bE|Zqqobd)z" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="rRp=(.q?14zqJ%_zC]$K"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="playMelody" id="S76_pXFNXj8G*1q=GA0N"><value name="melody"><shadow type="melody_editor"><field name="melody">"C D E F G A B C5 "</field></shadow><block type="melody_editor" id="~UC1=_Cit5)k%L@nnkqk"><field name="melody">"G F B C5 E B C E "</field></block></value><value name="tempo"><shadow type="math_number_minmax" id="aV7U7kJQ+r74|IF[gB%H"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="basic_show_arrow" id="+SDf^Ga^cCjRr4wt?#zy"><value name="i"><shadow type="device_arrow" id="n83q7G^eeY^weq^W4$CL"><field name="arrow">ArrowNames.SouthEast</field></shadow></value><next><block type="device_show_leds" id="QhWI-A$]X!Pb9z2]2/e2"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="3tlS]FjB*o9{Y4.9YZl%"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="2GbqXVOC]wI.U=@C@Sd|"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="=+]rd$f_?eD3k9%_0.9y"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="controls_repeat_ext" id="!UnX1i/j1ROcpp4L0jZr"><value name="TIMES"><shadow type="math_whole_number" id="~wS-y.o:,t)0~nTzGoUS"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="QJ*$%cu|OeK6GCj]/-7F"><field name="i">IconNames.Square</field><next><block type="basic_show_icon" id="P8BG?;jlqT9EX:?S5CA@"><field name="i">IconNames.SmallSquare</field></block></next></block></statement></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
